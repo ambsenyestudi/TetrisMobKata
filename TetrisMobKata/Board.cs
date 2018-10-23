@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TetrisMobKata
 {
+    //starting kata
     public class Board
     {
         public int Width { get; set; }
